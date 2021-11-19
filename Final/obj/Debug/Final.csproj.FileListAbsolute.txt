@@ -1,0 +1,12 @@
+C:\Users\almma\Documents\SharpDevelop Projects\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+C:\Users\almma\Documents\SharpDevelop Projects\Final\bin\Debug\Final.exe.config
+C:\Users\almma\Documents\SharpDevelop Projects\Final\bin\Debug\Final.exe
+C:\Users\almma\Documents\SharpDevelop Projects\Final\bin\Debug\Final.pdb
+C:\Users\almma\Documents\SharpDevelop Projects\Final\obj\Debug\Final.exe
+C:\Users\almma\Documents\SharpDevelop Projects\Final\obj\Debug\Final.pdb
+D:\Documentos\Renzo\UNAJ\A y P\Final\bin\Debug\Final.exe.config
+D:\Documentos\Renzo\UNAJ\A y P\Final\bin\Debug\Final.exe
+D:\Documentos\Renzo\UNAJ\A y P\Final\bin\Debug\Final.pdb
+D:\Documentos\Renzo\UNAJ\A y P\Final\obj\Debug\Final.csprojResolveAssemblyReference.cache
+D:\Documentos\Renzo\UNAJ\A y P\Final\obj\Debug\Final.exe
+D:\Documentos\Renzo\UNAJ\A y P\Final\obj\Debug\Final.pdb

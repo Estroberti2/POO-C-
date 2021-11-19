@@ -1,0 +1,66 @@
+C:\Users\yonat\OneDrive\Documentos\SharpDevelop Projects\BANCO\BANCO\obj\Debug\BANCO.csprojResolveAssemblyReference.cache
+C:\Users\yonat\OneDrive\Documentos\SharpDevelop Projects\BANCO\BANCO\bin\Debug\BANCO.exe.config
+C:\Users\yonat\OneDrive\Documentos\SharpDevelop Projects\BANCO\BANCO\bin\Debug\BANCO.exe
+C:\Users\yonat\OneDrive\Documentos\SharpDevelop Projects\BANCO\BANCO\bin\Debug\BANCO.pdb
+C:\Users\yonat\OneDrive\Documentos\SharpDevelop Projects\BANCO\BANCO\obj\Debug\BANCO.exe
+C:\Users\yonat\OneDrive\Documentos\SharpDevelop Projects\BANCO\BANCO\obj\Debug\BANCO.pdb
+D:\Descargas\BANCO\BANCO\bin\Debug\BANCO.exe.config
+D:\Descargas\BANCO\BANCO\bin\Debug\BANCO.exe
+D:\Descargas\BANCO\BANCO\bin\Debug\BANCO.pdb
+D:\Descargas\BANCO\BANCO\obj\Debug\BANCO.csprojResolveAssemblyReference.cache
+D:\Descargas\BANCO\BANCO\obj\Debug\BANCO.exe
+D:\Descargas\BANCO\BANCO\obj\Debug\BANCO.pdb
+C:\Users\almma\Desktop\BANCO\BANCO\obj\Debug\BANCO.exe
+C:\Users\almma\Desktop\BANCO\BANCO\bin\Debug\BANCO.exe.config
+C:\Users\almma\Desktop\BANCO\BANCO\bin\Debug\BANCO.exe
+C:\Users\almma\Desktop\BANCO\BANCO\bin\Debug\BANCO.pdb
+C:\Users\almma\Desktop\BANCO\BANCO\obj\Debug\BANCO.pdb
+C:\Users\almma\Desktop\BANCO\BANCO\obj\Debug\BANCO.csprojResolveAssemblyReference.cache
+C:\Users\yonat\Downloads\BANCO\BANCO\BANCO\bin\Debug\BANCO.exe.config
+C:\Users\yonat\Downloads\BANCO\BANCO\BANCO\bin\Debug\BANCO.exe
+C:\Users\yonat\Downloads\BANCO\BANCO\BANCO\bin\Debug\BANCO.pdb
+C:\Users\yonat\Downloads\BANCO\BANCO\BANCO\obj\Debug\BANCO.csprojResolveAssemblyReference.cache
+C:\Users\yonat\Downloads\BANCO\BANCO\BANCO\obj\Debug\BANCO.exe
+C:\Users\yonat\Downloads\BANCO\BANCO\BANCO\obj\Debug\BANCO.pdb
+D:\Descargas\BANCO3\BANCO\BANCO\bin\Debug\BANCO.exe.config
+D:\Descargas\BANCO3\BANCO\BANCO\bin\Debug\BANCO.exe
+D:\Descargas\BANCO3\BANCO\BANCO\bin\Debug\BANCO.pdb
+D:\Descargas\BANCO3\BANCO\BANCO\obj\Debug\BANCO.csprojResolveAssemblyReference.cache
+D:\Descargas\BANCO3\BANCO\BANCO\obj\Debug\BANCO.exe
+D:\Descargas\BANCO3\BANCO\BANCO\obj\Debug\BANCO.pdb
+C:\Users\almma\Desktop\BANCO3\BANCO\BANCO\obj\Debug\BANCO.csprojResolveAssemblyReference.cache
+C:\Users\almma\Desktop\BANCO3\BANCO\BANCO\obj\Debug\BANCO.exe
+C:\Users\almma\Desktop\BANCO3\BANCO\BANCO\bin\Debug\BANCO.exe.config
+C:\Users\almma\Desktop\BANCO3\BANCO\BANCO\bin\Debug\BANCO.exe
+C:\Users\almma\Desktop\BANCO3\BANCO\BANCO\bin\Debug\BANCO.pdb
+C:\Users\almma\Desktop\BANCO3\BANCO\BANCO\obj\Debug\BANCO.pdb
+C:\Users\yonat\Downloads\Nueva carpeta (4)\BANCO\BANCO\bin\Debug\BANCO.exe.config
+C:\Users\yonat\Downloads\Nueva carpeta (4)\BANCO\BANCO\bin\Debug\BANCO.exe
+C:\Users\yonat\Downloads\Nueva carpeta (4)\BANCO\BANCO\bin\Debug\BANCO.pdb
+C:\Users\yonat\Downloads\Nueva carpeta (4)\BANCO\BANCO\obj\Debug\BANCO.csprojResolveAssemblyReference.cache
+C:\Users\yonat\Downloads\Nueva carpeta (4)\BANCO\BANCO\obj\Debug\BANCO.exe
+C:\Users\yonat\Downloads\Nueva carpeta (4)\BANCO\BANCO\obj\Debug\BANCO.pdb
+C:\Users\yonat\Downloads\Nueva carpeta (5)\BANCO\BANCO\bin\Debug\BANCO.exe.config
+C:\Users\yonat\Downloads\Nueva carpeta (5)\BANCO\BANCO\bin\Debug\BANCO.exe
+C:\Users\yonat\Downloads\Nueva carpeta (5)\BANCO\BANCO\bin\Debug\BANCO.pdb
+C:\Users\yonat\Downloads\Nueva carpeta (5)\BANCO\BANCO\obj\Debug\BANCO.csprojResolveAssemblyReference.cache
+C:\Users\yonat\Downloads\Nueva carpeta (5)\BANCO\BANCO\obj\Debug\BANCO.exe
+C:\Users\yonat\Downloads\Nueva carpeta (5)\BANCO\BANCO\obj\Debug\BANCO.pdb
+C:\Users\yonat\Downloads\BANCO FINAL\BANCO\BANCO\bin\Debug\BANCO.exe.config
+C:\Users\yonat\Downloads\BANCO FINAL\BANCO\BANCO\bin\Debug\BANCO.exe
+C:\Users\yonat\Downloads\BANCO FINAL\BANCO\BANCO\bin\Debug\BANCO.pdb
+C:\Users\yonat\Downloads\BANCO FINAL\BANCO\BANCO\obj\Debug\BANCO.csprojResolveAssemblyReference.cache
+C:\Users\yonat\Downloads\BANCO FINAL\BANCO\BANCO\obj\Debug\BANCO.exe
+C:\Users\yonat\Downloads\BANCO FINAL\BANCO\BANCO\obj\Debug\BANCO.pdb
+D:\Documentos\Renzo\UNAJ\A y P\BANCO\BANCO\bin\Debug\BANCO.exe.config
+D:\Documentos\Renzo\UNAJ\A y P\BANCO\BANCO\bin\Debug\BANCO.exe
+D:\Documentos\Renzo\UNAJ\A y P\BANCO\BANCO\bin\Debug\BANCO.pdb
+D:\Documentos\Renzo\UNAJ\A y P\BANCO\BANCO\obj\Debug\BANCO.csprojResolveAssemblyReference.cache
+D:\Documentos\Renzo\UNAJ\A y P\BANCO\BANCO\obj\Debug\BANCO.exe
+D:\Documentos\Renzo\UNAJ\A y P\BANCO\BANCO\obj\Debug\BANCO.pdb
+D:\Documentos\Renzo\UNAJ\A y P\Practica Objeto\BANCO\bin\Debug\BANCO.exe.config
+D:\Documentos\Renzo\UNAJ\A y P\Practica Objeto\BANCO\bin\Debug\BANCO.exe
+D:\Documentos\Renzo\UNAJ\A y P\Practica Objeto\BANCO\bin\Debug\BANCO.pdb
+D:\Documentos\Renzo\UNAJ\A y P\Practica Objeto\BANCO\obj\Debug\BANCO.csprojResolveAssemblyReference.cache
+D:\Documentos\Renzo\UNAJ\A y P\Practica Objeto\BANCO\obj\Debug\BANCO.exe
+D:\Documentos\Renzo\UNAJ\A y P\Practica Objeto\BANCO\obj\Debug\BANCO.pdb
